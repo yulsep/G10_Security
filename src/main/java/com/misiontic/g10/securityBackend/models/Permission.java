@@ -43,7 +43,7 @@ public class Permission implements Serializable {
         return url;
     }
 
-    /**
+    /** Get url for permission
      *
      * @param url
      */
