@@ -29,7 +29,7 @@ public class Rol implements Serializable {
     private Set<Permission> permissions;
 
     /**
-     *
+     * Set permissions from idRol
      * @return
      */
 
