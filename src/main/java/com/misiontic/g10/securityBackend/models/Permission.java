@@ -17,7 +17,7 @@ public class Permission implements Serializable {
     private Set<Rol> roles;
 
     /**
-     *
+     * Get id permission
      * @return
      */
 
